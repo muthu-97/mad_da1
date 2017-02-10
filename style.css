@@ -19,6 +19,7 @@ body{background: #E7E7E7; height: 100%;}
 nav{
     padding-bottom: 5px;
      color: #EEEEEE;
+     margin-right: 25px;
      display: table;
     width: 60%;
     table-layout: fixed;
